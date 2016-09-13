@@ -13,6 +13,7 @@ Requires
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
 * JDK 7+
+* Scala (e.g. brew install scala)
 
 Includes gradle support.
 

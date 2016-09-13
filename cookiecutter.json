@@ -1,0 +1,7 @@
+{
+  "app_name": "hello-world-app",
+  "sbt_version": "0.13.11",
+  "scala_version": "2.10.4",
+  "package_name": "com.hello.world",
+  "_copy_without_render": [".gradle", "gradle/", "*gradlew", "*gradlew.bat"]
+}

@@ -17,7 +17,7 @@ Requires
 
 Includes gradle support.
 
-Use cookiecutter-java
----------------------
+Use cookiecutter-scala
+----------------------
 
 cookiecutter https://github.com/m-x-k/cookiecutter-scala
